@@ -1,0 +1,2 @@
+recursive-include nutrilogix *
+global-exclude *pyc
